@@ -1,0 +1,1001 @@
+Count	Query
+75,788	bible
+69,082	Love
+59,169	basic
+43,082	λόγος
+42,325	faith
+36,373	Grace
+32,916	spirit
+31,161	Prayer
+30,436	hope
+29,098	joy
+29,066	peace
+27,558	יהוה
+24,149	worship
+23,246	Sin
+22,781	fear
+22,578	glory
+22,425	Jesus
+22,283	wisdom
+22,256	heart
+22,089	Forgive
+22,051	covenant
+21,798	Holy Spirit
+21,556	baptism
+21,516	church
+21,286	kingdom
+20,483	light
+20,040	repent
+19,795	gospel
+19,697	pray
+18,825	temple
+18,613	sabbath
+18,010	Esv
+18,009	Salvation
+17,936	resurrection
+17,628	satan
+17,496	father
+17,197	truth
+17,022	john
+16,969	abraham
+16,518	God
+16,070	son of man
+15,939	holy
+15,134	Marriage
+15,093	Lord
+15,011	hell
+14,925	Moses
+14,874	righteousness
+14,849	forgiveness
+14,814	mercy
+14,271	David
+14,023	Atonement
+13,652	Elijah
+13,084	angels
+13,055	death
+13,053	law
+12,971	Word
+12,913	children
+12,722	NIV
+12,712	Heaven
+12,441	passover
+12,432	believe
+12,421	power
+12,347	anger
+12,097	matthew
+12,009	romans
+12,006	Genesis
+11,923	cross
+11,904	James
+11,885	Trust
+11,540	rest
+11,526	Adoption
+11,284	Peter
+11,237	blood
+11,199	Repentance
+11,146	jerusalem
+11,125	Divorce
+11,122	servant
+11,095	shepherd
+11,040	luke
+11,034	Noah
+10,973	Judge
+10,961	tabernacle
+10,940	sanctification
+10,854	Thanksgiving
+10,799	@v
+10,790	life
+10,697	Trinity
+10,654	authority
+10,614	Disciple
+10,601	jonah
+10,586	propitiation
+10,481	angel
+10,411	amor
+10,397	paul
+10,335	Tithe
+10,290	pride
+10,271	mark
+10,257	Kingdom of god
+10,160	Compassion
+10,144	Joseph
+10,100	Joshua
+10,099	blessed
+10,079	Mind
+10,007	remember
+9,992	Isaiah
+9,961	revelation
+9,877	christ
+9,869	world
+9,829	Ephesians
+9,829	Daniel
+9,823	Fellowship
+9,803	humble
+9,801	Rejoice
+9,726	king
+9,712	Lazarus
+9,648	messiah
+9,571	friend
+9,554	sacrifice
+9,550	adam
+9,540	Wrath
+9,535	redemption
+9,396	Biblia
+9,347	in Christ
+9,342	work
+9,338	son of man
+9,212	unity
+9,185	Melchizedek
+9,144	soul
+9,128	praise
+9,115	fasting
+9,112	israel
+9,085	prophet
+9,055	Acts
+9,022	commentary
+8,971	fire
+8,953	Judas
+8,913	Comfort
+8,843	Rahab
+8,773	Justification
+8,768	Faithful
+8,729	job
+8,679	abide
+8,624	fruit
+8,513	flesh
+8,467	Honor
+8,466	Healing
+8,435	mystery
+8,320	suffering
+8,298	devil
+8,226	humility
+8,208	Balaam
+8,192	righteous
+8,135	darkness
+8,134	justice
+8,081	Mother
+8,030	wine
+7,949	know
+7,890	fool
+7,875	Conscience
+7,875	image
+7,863	creation
+7,831	gift
+7,821	patience
+7,752	good
+7,752	Holiness
+7,693	temptation
+7,616	THANKS
+7,611	obedience
+7,607	maps
+7,574	perfect
+7,528	Psalms
+7,523	tongue
+7,516	enoch
+7,509	jacob
+7,501	obey
+7,460	Timothy
+7,407	walk
+7,378	Circumcision
+7,334	Holy Spirit
+7,297	communion
+7,295	Proverbs
+7,276	serve
+7,251	apostle
+7,233	slave
+7,204	knowledge
+7,198	fe
+7,064	wife
+7,045	family
+7,041	freedom
+7,041	DISCIPLINE
+7,010	kingdom of God
+6,972	Evil
+6,959	baptize
+6,952	elder
+6,920	Mary
+6,895	poor
+6,850	Vision
+6,832	seed
+6,829	body
+6,817	commentaries
+6,811	suffer
+6,811	@V??M
+6,785	seek
+6,750	lucifer
+6,739	Saul
+6,738	name
+6,705	Priest
+6,696	I am
+6,658	solomon
+6,628	Pastor
+6,622	bread
+6,617	GENERAL
+6,600	ELDERS
+6,585	sword
+6,579	time
+6,576	Antichrist
+6,554	Babylon
+6,529	confess
+6,507	Ephesus
+6,484	Jehovah
+6,461	Rapture
+6,442	altar
+6,424	hate
+6,422	rock
+6,395	teach
+6,393	the
+6,388	Hebrews
+6,385	Witness
+6,337	sAMARITAN
+6,306	sodom
+6,293	barnabas
+6,252	greek
+6,240	Christmas
+6,224	ruth
+6,194	Day of the Lord
+6,184	Samuel
+6,176	strength
+6,166	Adultery
+6,159	water
+6,149	purpose
+6,149	salt
+6,133	EXODUS
+6,129	Tongues
+6,125	Nasb
+6,076	money
+6,076	Titus
+6,033	inheritance
+5,993	hebrew
+5,989	deacon
+5,972	worry
+5,961	Fruit of the spirit
+5,946	shame
+5,930	sheol
+5,901	Tribulation
+5,861	john 1
+5,859	bless
+5,850	Lamb
+5,845	Lot
+5,843	Gideon
+5,802	demon
+5,787	galatians
+5,771	scripture
+5,745	i am
+5,734	abba
+5,715	submit
+5,715	new
+5,708	Oracion
+5,693	Jericho
+5,661	psalm
+5,647	Treasure
+5,644	Love one another
+5,634	Encourage
+5,630	Fast
+5,611	one another
+5,610	women
+5,603	paradise
+5,602	judgment
+5,597	promise
+5,585	Pentecost
+5,582	saved
+5,557	god is love
+5,547	Son
+5,545	
+5,526	herod
+5,519	foundation
+5,519	Son of God
+5,500	lion
+5,496	house
+5,483	reconciliation
+5,474	blind
+5,456	justified
+5,446	hezekiah
+5,438	new creation
+5,420	caleb
+5,412	free
+5,400	bride
+5,399	yoke
+5,365	Discipleship
+5,360	faith hope love
+5,357	ark
+5,344	philippians
+5,321	Son of God
+5,313	cain
+5,312	elect
+5,288	zion
+5,283	widow
+5,280	Psalm 23
+5,261	samson
+5,253	redeem
+5,251	Colossians
+5,245	content
+5,227	Yahweh
+5,220	test
+5,215	blessing
+5,197	child
+5,194	nicodemus
+5,158	Curse
+5,155	called
+5,153	hades
+5,148	crown
+5,146	harvest
+5,119	preach
+5,115	Immanuel
+5,104	Bethlehem
+5,094	Jeremiah
+5,094	serpent
+5,093	Cyrus
+5,078	Worthy
+5,077	romans 8
+5,030	Prophecy
+5,026	kindness
+5,024	Nephilim
+5,022	Isaac
+5,018	BDAG
+5,006	eternal life
+4,970	idolatry
+4,961	Homosexual
+4,961	advent
+4,931	overcome
+4,909	Baal
+4,899	eternal
+4,895	Samaria
+4,885	Lust
+4,877	Anxious
+4,860	1 peter
+4,860	Goliath
+4,855	easter
+4,855	gentiles
+4,853	race
+4,851	DICTIONARY
+4,849	Esau
+4,837	john 3:16
+4,830	election
+4,823	gossip
+4,816	will
+4,811	sheep
+4,808	nations
+4,807	manna
+4,803	logos
+4,795	reward
+4,783	meditate
+4,768	sanctify
+4,767	Nkjv
+4,750	faithfulness
+4,746	incarnation
+4,730	moab
+4,725	Edom
+4,710	works
+4,707	heal
+4,696	abomination
+4,695	spiritual gifts
+4,695	boast
+4,691	follow me
+4,659	demons
+4,657	predestination
+4,655	nazareth
+4,620	Desire
+4,619	Woman
+4,609	homosexuality
+4,599	victory
+4,596	new covenant
+4,582	give
+4,561	follow
+4,554	sleep
+4,554	sign
+4,544	Elohim
+4,523	CONCORDANCE
+4,517	reconcile
+4,505	1 John
+4,488	doctrine
+4,483	Wilderness
+4,482	sons of god
+4,481	stone
+4,476	Elisha
+4,476	john the baptist
+4,472	simon
+4,467	Study
+4,455	martha
+4,452	regeneration
+4,435	fear of the lord
+4,404	will of god
+4,400	hospitality
+4,380	Wait
+4,379	fear of the lord
+4,377	firstborn
+4,376	disciples
+4,371	egypt
+4,367	chosen
+4,364	sons of god
+4,358	update now
+4,357	Saints
+4,351	strong
+4,351	bibles
+4,333	Pharisees
+4,313	philip
+4,304	gracia
+4,295	baptized
+4,291	hear
+4,288	ten commandments
+4,283	favor
+4,281	<Person Jesus>
+4,275	courage
+4,273	Pharisee
+4,272	restore
+4,267	Judah
+4,265	Stephen
+4,262	transfiguration
+4,255	Kingdom of heaven
+4,254	Anxiety
+4,251	hosanna
+4,246	Gifts
+4,239	<John 1:1>
+4,233	tree
+4,221	godliness
+4,204	Thomas
+4,200	Man
+4,181	high priest
+4,176	Capernaum
+4,173	Delight
+4,164	kingdom of heaven
+4,159	Apollos
+4,140	Esther
+4,129	<lemma = lbs/el/λόγος>
+4,128	tamar
+4,123	cornerstone
+4,117	image of god
+4,108	integrity
+4,103	mountain
+4,099	helper
+4,081	slavery
+4,072	Pecado
+4,063	jezebel
+4,048	stand
+4,041	veil
+4,040	FORNICATION
+4,040	genesis 1
+4,037	Septuagint
+4,029	parable
+4,025	predestined
+4,024	tempted
+4,024	<Person God>
+4,022	beginning
+4,004	in Christ
+3,995	brother
+3,993	josiah
+3,984	and
+3,982	Plans
+3,971	vine
+3,969	confidence
+3,968	Spurgeon
+3,966	one another
+3,966	crucified
+3,946	unbelief
+3,940	thankful
+3,937	Ezekiel
+3,920	<lemma = lbs/el/χάρις>
+3,917	lemma:λόγος
+3,906	god is love
+3,905	revival
+3,904	friends
+3,903	1 corinthians
+3,902	christian
+3,898	Ask
+3,895	save
+3,892	throne
+3,884	jealous
+3,882	Neighbor
+3,872	comforter
+3,870	<Lemma = lbs/el/δικαιοσύνη>
+3,861	understanding
+3,861	sanhedrin
+3,856	Luke 15
+3,854	Gold
+3,850	Talents
+3,850	giving
+3,838	wise
+3,837	offering
+3,833	rebuke
+3,832	religion
+3,828	Nlt
+3,824	Seventy
+3,821	Lydia
+3,821	leadership
+3,821	Sing
+3,815	evangelism
+3,809	virgin
+3,808	Demas
+3,806	Bathsheba
+3,804	Nehemiah
+3,801	Dead
+3,792	forsake
+3,789	Listen
+3,787	Judgement
+3,784	parables
+3,784	Living water
+3,782	prophets
+3,763	born again
+3,762	sovereign
+3,754	hosea
+3,751	teacher
+3,750	deny
+3,750	a
+3,747	James 1
+3,741	refuge
+3,737	RICH
+3,736	abram
+3,734	matthew 5
+3,724	ayuno
+3,709	perseverance
+3,699	Eucharist
+3,699	names of god
+3,695	meek
+3,693	Jehovah
+3,691	remnant
+3,684	interlinear
+3,673	iniquity
+3,664	Corinth
+3,663	Hand
+3,657	steward
+3,656	It is finished
+3,653	KJV
+3,648	stewardship
+3,647	Book of Life
+3,641	Espiritu santo
+3,632	shalom
+3,611	Miracles
+3,610	Persecution
+3,607	mediator
+3,604	perish
+3,591	Word of God
+3,590	Shiloh
+3,584	<Lemma = lbs/he/יהוה>
+3,584	presence
+3,582	redeemer
+3,577	testimony
+3,577	idol
+3,575	Romans 12
+3,568	Gabriel
+3,568	Day of the Lord
+3,561	fear not
+3,553	providence
+3,549	Bethel
+3,548	eyes
+3,547	intercession
+3,542	Bitterness
+3,534	Talent
+3,523	Sea
+3,518	Woe
+3,512	naaman
+3,505	timeline
+3,503	Day
+3,496	<Lemma = lbs/el/πνεῦμα>
+3,492	Nineveh
+3,487	call
+3,481	Light of the world
+3,477	{Speaker <Person Jesus>}
+3,473	<lemma = lbs/el/πίστις>
+3,472	give thanks
+3,468	ransom
+3,465	weakness
+3,461	ashamed
+3,457	apostles
+3,453	armor of god
+3,453	agape
+3,446	leaven
+3,446	calling
+3,441	Santidad
+3,433	map
+3,427	s
+3,426	John 15
+3,415	cup
+3,412	Seven
+3,404	trials
+3,398	Romans 1
+3,391	Michael
+3,389	Greatest commandment
+3,382	misericordia
+3,380	Filthy rags
+3,379	husband
+3,376	be still
+3,374	enemy
+3,370	glorify
+3,370	Abel
+3,344	Judges
+3,340	sanctified
+3,340	love the lord your god
+3,337	enemies
+3,336	augustine
+3,336	Rebellion
+3,335	babel
+3,334	tears
+3,332	paz
+3,317	anoint
+3,303	canon
+3,298	wedding
+3,296	Jude
+3,295	Rain
+3,295	Leprosy
+3,289	firstfruits
+3,289	Steadfast
+3,287	Emmanuel
+3,286	beloved
+3,286	one
+3,283	Levi
+3,283	doubt
+3,282	Simeon
+3,279	Condemnation
+3,277	leviathan
+3,275	transformed
+3,273	savior
+3,268	Nebuchadnezzar
+3,250	endurance
+3,246	Amen
+3,246	<Person Holy Spirit>
+3,245	lovingkindness
+3,243	envy
+3,243	Fear not
+3,234	example
+3,232	John 4
+3,225	inspiration
+3,210	flee
+3,209	Prodigal
+3,209	eye
+3,203	love the Lord
+3,201	generation
+3,196	Raised
+3,195	Emmaus
+3,191	synagogue
+3,183	milk
+3,181	psalm 1
+3,180	trumpet
+3,179	unclean
+3,174	Psalm 91
+3,170	i
+3,167	Follow me
+3,166	Pilate
+3,161	character
+3,157	goodness
+3,149	korah
+3,142	jesus wept
+3,142	help
+3,141	Galilee
+3,138	eternity
+3,132	confession
+3,130	Gethsemane
+3,120	WATCH
+3,116	door
+3,111	earth
+3,098	antioch
+3,089	Iglesia
+3,088	Palm sunday
+3,087	Diezmo
+3,083	sex
+3,082	Will of God
+3,076	root:θεος
+3,072	Surrender
+3,070	feet
+3,068	feast
+3,061	anointed
+3,058	I am the way
+3,058	created
+3,058	<lemma = lbs/he/חֶ֫סֶד:2>
+3,057	centurion
+3,054	impossible
+3,054	tim keller
+3,052	fig tree
+3,047	Ephraim
+3,040	miracle
+3,037	ministry
+3,035	wicked
+3,031	TEACHING
+3,031	acts 2
+3,028	Idols
+3,027	contentment
+3,016	<lemma = lbs/el/ἀγαπάω>
+3,015	good works
+3,013	weary
+3,006	matthew henry commentary
+3,004	oil
+3,003	War
+2,994	afraid
+2,993	Zechariah
+2,992	come
+2,983	cherubim
+2,973	Examine
+2,973	Philemon
+2,970	sovereignty
+2,969	john 14
+2,967	Corinthians
+2,967	prodigal son
+2,966	gamaliel
+2,965	be holy
+2,961	Matrimonio
+2,958	Reading plan
+2,957	eternal life
+2,952	fathers
+2,951	burden
+2,950	<Topic Commentary> OR Commentary OR Commentaries
+2,946	preaching
+2,938	luke 2
+2,935	tyre
+2,935	Selah
+2,927	Weak
+2,924	sermon editor
+2,918	ezra
+2,915	beast
+2,912	grow
+2,912	Amos
+2,911	commandment
+2,909	salvacion
+2,909	eve
+2,909	anchor
+2,908	begotten
+2,907	Nimrod
+2,907	Ishmael
+2,903	counsel
+2,902	Bhs
+2,898	jubilee
+2,895	commandments
+2,888	Redeemed
+2,887	Phillipians
+2,882	<Place Jerusalem>
+2,879	die
+2,877	adonai
+2,876	funeral
+2,871	Jonathan
+2,871	donkey
+2,868	potter
+2,867	free will
+2,866	Words
+2,866	head
+2,865	Aaron
+2,864	Zeal
+2,862	ofrenda
+2,861	well done
+2,855	Deborah
+2,855	angel of the Lord
+2,845	plan
+2,838	eden
+2,838	Jeroboam
+2,836	Inerrancy
+2,835	advocate
+2,834	root:πιστευω
+2,823	lie
+2,821	love your neighbor
+2,817	new creation
+2,815	<lemma = lbs/el/ἐκκλησία>
+2,813	foolish
+2,813	dominion
+2,812	thank
+2,811	Mary Magdalene
+2,810	word of God
+2,809	ephod
+2,809	eat
+2,803	mustard seed
+2,798	sower
+2,794	priesthood
+2,789	Ark of the covenant
+2,788	you
+2,787	Pure
+2,787	guilt
+2,785	john 3
+2,779	offense
+2,776	beatitudes
+2,775	bautismo
+2,767	Eschatology
+2,762	Mission
+2,761	foreknowledge
+2,761	sorrow
+2,757	think
+2,754	eunuch
+2,751	imitate
+2,750	Matthew 6
+2,748	ecclesiastes
+2,747	sermon on the mount
+2,746	change
+2,746	Gentleness
+2,746	encouragement
+2,741	wealth
+2,737	renew
+2,733	voice
+2,726	cast lots
+2,726	<Lemma = lbs/el/πιστεύω>
+2,720	Spirit of fear
+2,715	way
+2,713	biblias
+2,711	mirror
+2,710	luther
+2,709	separate
+2,708	Jabez
+2,707	womb
+2,704	ambassador
+2,702	Absalom
+2,701	suicide
+2,696	hesed
+2,696	seal
+2,695	rod
+2,695	thousand
+2,693	anointing
+2,689	patient
+2,688	hagar
+2,687	shadow
+2,683	<lemma = lbs/el/ἀγάπη>
+2,682	train
+2,680	brothers
+2,675	nation
+2,673	foolishness
+2,673	<Lemma = lbs/el/ζωή>
+2,672	prison
+2,671	naked
+2,670	<Lemma = lbs/el/κοινωνία>
+2,669	first
+2,664	abigail
+2,661	Nathan
+2,661	together
+2,661	liberty
+2,660	Navidad
+2,658	signs
+2,651	<lemma = lbs/el/μυστήριον>
+2,651	love God
+2,649	adoracion
+2,649	happy
+2,646	circumcise
+2,636	household
+2,635	sparrow
+2,635	born
+2,634	dwell
+2,631	kings
+2,628	river
+2,628	familia
+2,626	home
+2,625	lamb of God
+2,621	branch
+2,617	tent
+2,615	blameless
+2,610	tree of life
+2,609	debt
+2,606	choose
+2,606	Right hand
+2,605	storm
+2,604	Apostasy
+2,604	respect
+2,604	identity
+2,604	notes
+2,602	Dios
+2,601	gilgal
+2,594	ebenezer
+2,593	mephibosheth
+2,590	dream
+2,589	secret
+2,589	Ephesians 4
+2,589	Gnosticism
+2,589	New covenant
+2,587	Therefore
+2,584	Didache
+2,577	lost
+2,575	body of christ
+2,573	beauty
+2,573	remembrance
+2,571	dust
+2,571	<Lemma = lbs/el/παρακαλέω>
+2,570	Thorn
+2,567	sun
+2,567	Sadducees
+2,566	stars
+2,564	Greek new testament
+2,561	<lemma = lbs/el/μένω>
+2,561	angry
+2,559	Psalm 139
+2,558	Ananias
+2,557	murder
+2,554	pleasure
+2,552	hebrew bible
+2,550	behold
+2,548	*
+2,545	face
+2,544	ESV Bible
+2,540	love
+2,537	Image of God
+2,533	perdon
+2,531	hands
+2,530	riches
+2,527	bosquejos
+2,524	speak
+2,523	endure
+2,522	Glorified
+2,520	luke 1
+2,518	mouth
+2,518	miriam
+2,518	magi
+2,515	pillar
+2,511	nature
+2,510	Principalities
+2,510	Gods
+2,509	Zacchaeus
+2,506	<Person Paul>
+2,503	enmity
+2,503	Damascus
+2,503	labor
+2,501	blasphemy
+2,500	grieve
+2,497	pray without ceasing
+2,496	Manasseh
+2,494	hannah
+2,493	Temor
+2,489	royal priesthood
+2,489	audio
+2,487	see
+2,486	forever
+2,483	Bible knowledge commentary
+2,480	philippi
+2,480	Nicolaitans
+2,479	padre
+2,475	uzziah
+2,475	thief
+2,474	Lords prayer
+2,473	evangelist
+2,473	All
+2,472	be holy
+2,470	son of David
+2,468	esperanza
+2,466	rich young ruler
+2,463	sarah
+2,462	Flood
+2,461	Captive
+2,460	city
+2,459	koinonia
+2,455	youth
+2,452	sinners
+2,450	Broken
+2,448	luz
+2,448	faith comes by hearing
+2,447	promises
+2,446	canaan
+2,442	greater
+2,440	elias
+2,439	Prosper
+2,439	Shechem
+2,436	Precious
+2,435	john 1:1
+2,434	2 corinthians
+2,433	generous
+2,429	pray*
+2,428	Good samaritan
+2,419	Depression
+2,418	<lemma = lbs/el/χαίρω>
+2,416	prayers
+2,414	Food
+2,414	build
+2,412	mammon
+2,412	Mateo
+2,411	tower
+2,404	joel
+2,404	millstone
+2,403	spiritual
+2,403	garden
+2,403	trust in the lord
+2,402	d
+2,402	Macedonia
+2,399	gozo
+2,398	gentile
+2,393	vow
+2,393	taste and see
+2,388	SHEMA
+2,387	intercede
+2,387	Lord's Supper
+2,384	sons
+2,383	Assurance
+2,382	shekinah
+2,376	Sealed
+2,375	calvin
+2,371	better
+2,370	hidden
+2,367	cloud
+2,367	glory of god
+2,366	service
+2,365	naves topical bible
+2,364	mature
+2,363	corazon
+2,363	Bishop
